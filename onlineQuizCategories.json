@@ -2,7 +2,7 @@
   "quiz_categories": [
       
           
-          {"category": "حب","jsonName": "https://mg-app.github.io/quiz/onlin_quiz.json","image": "https://placehold.co/600x400.png"},
+          {"category": "حب","jsonName": "https://mg-app.github.io/quiz/onlin_quiz.json","image": "https://placehold.co/600x400.png","typeQuiz": "image"},
           
           
       
