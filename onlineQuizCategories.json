@@ -2,10 +2,11 @@
   "quiz_categories": [
       
           
-         
+          {"category": "عامة","jsonName": "https://mg-app.github.io/quiz/onlin_quiz.json","image": "https://ia600301.us.archive.org/2/items/online2_202405/online2.jpeg"},
+           {"category": "أمثال","jsonName": "https://mg-app.github.io/quiz/onlin_quiz.json","image": "https://ia600301.us.archive.org/2/items/online2_202405/onlineI.jpeg"},
           
       
   
-   ]
+  
 
 }
