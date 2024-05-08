@@ -5,23 +5,18 @@
       "TypeQuiz": "image",
       "isComplete": "true",
       "question": [
+        
         {"quest": "من كم لون يتكون قوس قزح؟","image": "https://ia804603.us.archive.org/3/items/islam_2_202312/isalm_10.jpeg","chooses":["8","7","6","5"],"correctanswer": "7"},
         {"quest": "أين توجد لوحة (( الموناليزا ))؟","image": "https://ia904603.us.archive.org/3/items/islam_2_202312/islam_17.jpeg","chooses":["باريس","لندن","روما","القاهرة"],"correctanswer": "باريس"},
         {"quest": "هل تعرف ما هو اسم مدينة التلال السبع؟","image": "https://ia904603.us.archive.org/3/items/islam_2_202312/islam_18.jpeg","chooses":["روما","قبرص","لندن","باريس"],"correctanswer": "روما"},
-        {"quest": "كم يبلغ ارتفاع هرم خوفو الأكبر المتواجد في الجيزة بجمهورية مصر العربية؟","image": "https://ia804603.us.archive.org/3/items/islam_2_202312/isalm_10.jpeg","chooses":["99 متر","138 متر","83 متر","103 متر"],"correctanswer": "138 متر"},
-        {"quest": "هل تعرف ما هو اسم المدينة التي أسسها جوهر الصقلي؟","image": "https://ia804603.us.archive.org/3/items/islam_2_202312/isalm_1.jpeg","chooses":["مدينة القاهرة","مدينة القصيم","مدينة الكوفة","مدينة بغداد"],"correctanswer": "مدينة القاهرة"},
-        {"quest": "كم تبلغ عدد العضلات الموجودة في جسم الانسان؟","image": "https://ia804603.us.archive.org/3/items/islam_2_202312/isalm_3.jpeg","chooses":["620","520","420","320"],"correctanswer": "620"},
-        {"quest": "هل تعرف ما هي العملية الجراحية الأكثر إجراءاً للبشر في العالم؟","image": "https://ia804603.us.archive.org/3/items/islam_2_202312/isalm_15.jpeg","chooses":["اللوزتين","المرارة","البواسير","القلب"],"correctanswer": "اللوزتين"},
-        {"quest": "كم مرة وردة كلمة نحلة في القرآن الكريم ؟","image": "https://ia804603.us.archive.org/3/items/islam_2_202312/isalm_10.jpeg","chooses":["1","2","3","5"],"correctanswer": "1"},
-        {"quest": "من هو أول شهيد سقط في معركة في تاريخ الإسلام ؟","image": "https://ia804603.us.archive.org/3/items/islam_2_202312/isalm_10.jpeg","chooses":["حمزه عم الرسول","عبيدة بن الحارث","سعد بن ابي وقاص","الزبير بن العوام"],"correctanswer": "عبيدة بن الحارث"},
-        {"quest": "ما الحيوان الذي ينام وإحدى عينيه مفتوحة ؟","image": "https://ia804603.us.archive.org/3/items/islam_2_202312/isalm_10.jpeg","chooses":["الدب","التمساح","الدرفيل","الحوت"],"correctanswer": "الدرفيل"}
+       
       ]
 
     },
     {
       "levelname": "المستوي الثاني",
       "TypeQuiz": "words",
-      "isComplete": "true",
+      "isComplete": "false",
       "question": [
         {"quest": "من هي عالمة الذرة المصرية التي قـُـتِلت عام (1952) م في أمريكا في حادث سيارة ؟","chooses":["فوزية فهيم","صفية زغلول","هوي شعراوي","سميرة موسي"],"correctanswer": "سميرة موسي"},
         {"quest": "من هي الدولة الأولى التي أقرّت بحق المرأة في الإنتخاب, ومنحها هذا الحق؟","chooses":["السويد","فرنسا","انجلترا","سويسرا"],"correctanswer": "سويسرا"},
@@ -39,7 +34,7 @@
     {
       "levelname": "المستوي الثالث",
       "TypeQuiz": "letter",
-      "isComplete": "true",
+      "isComplete": "false",
       "question": [
         {"quest": "ما اسم الطائر الذي يعرف أنه صديق البحارين؟","chooses":["ر","ة","ن","و","ل","س","ص","ا"],"correctanswer": "النورس"},
         {"quest": "متى تم الغاء الخلافة الاسلامية؟","chooses":["1","2","3","9","5","6","2","4"],"correctanswer": "1924"},
@@ -57,7 +52,7 @@
      {
       "levelname": "المستوي الرابع",
       "TypeQuiz": "letterSquare",
-      "isComplete": "true",
+      "isComplete": "false",
       "question": [
         {"quest": "ما هي أسرع سمكة بحرية؟","chooses":["و","ت","ج","م","ب","ر","د","ش","أ","ن","ث","ا"],"correctanswer":"أبومنشار"},
         {"quest": "ماذا يطلق على ابن الذئب؟","chooses":["ل","غ","ن","ل","خ","و","ة","ا"],"correctanswer":"الغلو"},
