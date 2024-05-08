@@ -6,9 +6,8 @@
       "isComplete": "true",
       "question": [
         
-        {"quest": "من كم لون يتكون قوس قزح؟","image": "https://ia804603.us.archive.org/3/items/islam_2_202312/isalm_10.jpeg","chooses":["8","7","6","5"],"correctanswer": "7"},
-        {"quest": "أين توجد لوحة (( الموناليزا ))؟","image": "https://ia904603.us.archive.org/3/items/islam_2_202312/islam_17.jpeg","chooses":["باريس","لندن","روما","القاهرة"],"correctanswer": "باريس"},
-        {"quest": "هل تعرف ما هو اسم مدينة التلال السبع؟","image": "https://ia904603.us.archive.org/3/items/islam_2_202312/islam_18.jpeg","chooses":["روما","قبرص","لندن","باريس"],"correctanswer": "روما"},
+        {"quest": "في اي دولة يقع هذا المَعلم السياحي؟","image": "https://ia600301.us.archive.org/2/items/online2_202405/in_egypt.JPG","chooses":["ق","ص","ر","م","ط"],"correctanswer": "مصر"},
+        {"quest": "يُعرف ببرج بيزاالمائل فاين يوجد؟","image": "https://ia800301.us.archive.org/2/items/online2_202405/in_italy.jpeg","chooses":["ي","ط","ص","ي","ا","ل","ا","","ا","م"],"correctanswer": "ايطاليا"},
        
       ]
 
