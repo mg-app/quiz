@@ -1,5 +1,17 @@
 {
   "points_after_rewardAs": 1,
-  "ads_network_num": 0
+  "ads_network_num": 0,
+  "show_hide_splash_open_app":0,
+  "show_hide_public_open_app":0,
+  "num_show_public_open_app":1,
+  "show_hide_banner":0,
+  "show_hide_native":0,
+  "show_hide_interstitial":0,
+  "show_hide_reward":0
+
+
+
+
+
 
 }
