@@ -7,7 +7,7 @@
       "question": [
         
         {"quest": "في اي دولة يقع هذا المَعلم السياحي؟","image": "https://ia600301.us.archive.org/2/items/online2_202405/in_egypt.JPG","chooses":["ق","ص","ر","م","ط"],"correctanswer": "مصر"},
-        {"quest": "يُعرف ببرج بيزاالمائل فاين يوجد؟","image": "https://ia800301.us.archive.org/2/items/online2_202405/in_italy.jpeg","chooses":["ي","ط","ص","ي","ا","ل","ا","ا","م"],"correctanswer": "ايطاليا"},
+        {"quest": "يُعرف ببرج بيزاالمائل فاين يوجد؟","image": "https://ia800301.us.archive.org/2/items/online2_202405/in_italy.jpeg","chooses":["ي","ط","ص","ي","ا","ل","ا","ا","م"],"correctanswer": "ايطاليا"}
        
       ]
 
@@ -73,7 +73,7 @@
            "question": [
              
              {"quest": "في اي دولة يقع هذا المَعلم السياحي؟","image": "https://ia600301.us.archive.org/2/items/online2_202405/in_egypt.JPG","chooses":["ق","ص","ر","م","ط"],"correctanswer": "مصر"},
-             {"quest": "يُعرف ببرج بيزاالمائل فاين يوجد؟","image": "https://ia800301.us.archive.org/2/items/online2_202405/in_italy.jpeg","chooses":["ي","ط","ص","ي","ا","ل","ا","ا","م"],"correctanswer": "ايطاليا"},
+             {"quest": "يُعرف ببرج بيزاالمائل فاين يوجد؟","image": "https://ia800301.us.archive.org/2/items/online2_202405/in_italy.jpeg","chooses":["ي","ط","ص","ي","ا","ل","ا","ا","م"],"correctanswer": "ايطاليا"}
             
            ]
       },
@@ -89,7 +89,7 @@
              {"quest": "اين ولد","image": "https://ia904701.us.archive.org/29/items/20240522_20240522_1946/%D8%AC.jpg","correctanswer": "الكوفة"},
              {"quest": "من صاحب هذه الصورة","image": "https://ia902906.us.archive.org/30/items/20240523_20240523_1642/%D8%A7%D9%8A%D9%86%D9%8A%D8%B4%20%D8%AA%D8%A7%D9%8A%D9%86.jpg","correctanswer": "اينشتاين"},
              {"quest": "لقب بابوالطب","image": "https://ia904701.us.archive.org/23/items/20240523_20240523_1721/%D8%A7%D8%A8%D9%86%20%D8%B3%D9%8A%D8%AA%D8%A7%D8%A1.jpg","correctanswer": "ابن سيناء"},
-             {"quest": "متى تاسس الاتحادالعام للصحفيين العرب","image": "https://ia803402.us.archive.org/2/items/20240524_20240524_1007/%D8%AD%D8%B1%D9%8A%D8%A9.jpg","correctanswer": "1964"},
+             {"quest": "متى تاسس الاتحادالعام للصحفيين العرب","image": "https://ia803402.us.archive.org/2/items/20240524_20240524_1007/%D8%AD%D8%B1%D9%8A%D8%A9.jpg","correctanswer": "1964"}
 
              
            ]
@@ -105,7 +105,7 @@
              {"quest": "بحبة البنات ويكرهة الولاد","image": "https://ia600404.us.archive.org/14/items/20240523_20240523_1902/%D8%A7%D9%84%D8%AD%D9%86%D8%A7%D8%A1.jpg","correctanswer": "الحناء"},
              {"quest": "احدث نهضة عالمية فى الاسلام","image": "https://ia903200.us.archive.org/14/items/20240524_20240524_0909/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D8%A8%D8%AF%D9%87.jpg","correctanswer": "محمدعبده"},
              {"quest": "ماهو هذا الشى","image": "https://ia902906.us.archive.org/32/items/20240524_20240524_1045/%D8%AA%D9%84%D8%A8%D8%B3%D8%A9%20%D9%84%D8%A7%20%D8%AA%D8%B1%D8%A7%D8%A9.jpg","correctanswer": "الكفن"},
-             {"quest": "","image": "https://ia903404.us.archive.org/20/items/1-1_20240524/%D8%A3%D9%84%D8%BA%D8%A7%D8%B21-1.jpg","correctanswer": "الام"},
+             {"quest": "","image": "https://ia903404.us.archive.org/20/items/1-1_20240524/%D8%A3%D9%84%D8%BA%D8%A7%D8%B21-1.jpg","correctanswer": "الام"}
 
              ]
               }, {
@@ -120,7 +120,7 @@
              {"quest": "اين يقع هذاالمعلم ","image": "https://ia903402.us.archive.org/5/items/th_20240524/th.jpg","correctanswer": "لندن"},
              {"quest": "متى بنى هذا المعلم السياحى","image": "https://ia600401.us.archive.org/22/items/th-10_202405/th%20%2810%29.jpg","correctanswer": "2000"},
              {"quest": "","image": "https://ia600401.us.archive.org/4/items/20240524_20240524_1531/%D8%AA%D9%85%D8%B3%D9%83%D8%A9.jpg","correctanswer": "اعصابك"},
-             {"quest": "","image": "https://ia600401.us.archive.org/29/items/10_20240524_20240524_1536/%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-10.jpg","correctanswer": "الخفافيش"},
+             {"quest": "","image": "https://ia600401.us.archive.org/29/items/10_20240524_20240524_1536/%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-10.jpg","correctanswer": "الخفافيش"}
              
            ]
       }, {
@@ -135,7 +135,7 @@
              {"quest": "","image": "https://ia902907.us.archive.org/4/items/maxresdefault-1_20240524/maxresdefault%20%281%29.jpg","correctanswer": "صدى الصوت"},
              {"quest": "","image": "https://ia903403.us.archive.org/35/items/th-2_20240524/th%20%282%29.jpg","correctanswer": "الكوع الايمن"},
              {"quest": "","image": "https://ia903200.us.archive.org/15/items/hqdefault-1_202405/hqdefault%20%281%29.jpg","correctanswer": "السحابة"},
-             {"quest": "","image": "https://ia904701.us.archive.org/27/items/img-20200503-wa-0017/IMG-20200503-WA0017.jpg","correctanswer": "الطريق"},
+             {"quest": "","image": "https://ia904701.us.archive.org/27/items/img-20200503-wa-0017/IMG-20200503-WA0017.jpg","correctanswer": "الطريق"}
 
               ]
              }, {
@@ -148,7 +148,7 @@
              {"quest": "","image": "https://ia802906.us.archive.org/6/items/maxresdefault-2_202405/maxresdefault%20%282%29.jpg","correctanswer": "الطبق"},
              {"quest": "","image": "https://ia600402.us.archive.org/30/items/maxresdefault-3_20240524/maxresdefault%20%283%29.jpg","correctanswer": "الفار"},
              {"quest": "","image": "https://ia904709.us.archive.org/13/items/maxresdefault-4_20240524/maxresdefault%20%284%29.jpg","correctanswer": "ثعبان سيدنا موسى"},
-             {"quest": "","image": "https://ia903404.us.archive.org/33/items/th_20240524_202405/th%20%D8%A7%D9%85%D9%85%D9%85.jpg","correctanswer": "القلم"},
+             {"quest": "","image": "https://ia903404.us.archive.org/33/items/th_20240524_202405/th%20%D8%A7%D9%85%D9%85%D9%85.jpg","correctanswer": "القلم"}
              ]
          
                  }, {
@@ -163,7 +163,7 @@
              {"quest": "فى اى دولة تقع","image": "https://archive.org/download/51712/51712.jpg","correctanswer": "الامارات"},
              {"quest": "فى اى عام تم بناءه","image": "https://ia600403.us.archive.org/15/items/la-tour-effel/la%20tour%20effel.jpg","correctanswer": "1887"},
              {"quest": "ماهو المثل","image": "https://ia902305.us.archive.org/6/items/1-1_20240524_202405/%D9%82%D8%B5%D8%A9-%D8%A7%D9%84%D8%B5%D8%AF%D9%8A%D9%82-%D9%88%D9%82%D8%AA-%D8%A7%D9%84%D8%B6%D9%8A%D9%821-1.jpg","correctanswer": "الصديق وقت الضيق"},
-             {"quest": "اين ولد","image": "https://ia600402.us.archive.org/25/items/th-3_20240524/th%20%283%29.jpg","correctanswer": "القاهرة"},
+             {"quest": "اين ولد","image": "https://ia600402.us.archive.org/25/items/th-3_20240524/th%20%283%29.jpg","correctanswer": "القاهرة"}
 
               ]
                  }, {
@@ -178,7 +178,7 @@
              {"quest": "فى اى دولة تقع","image": "https://ia600402.us.archive.org/15/items/th-9_20240524/th%20%289%29.jpg","correctanswer": "مصر"},
              {"quest": "فى اى عام تم بناءه","image": "https://ia904709.us.archive.org/8/items/th-4_20240524/th%20%284%29.jpg","correctanswer": "1897"},
              {"quest": "ماهو المثل","image": "https://archive.org/download/c5d58f86d98f5ea958773e1084cef476/c5d58f86d98f5ea958773e1084cef476.jpg","correctanswer": "زينة المراة حياؤها"},
-             {"quest": "اين ولد","image": "https://ia902905.us.archive.org/20/items/1-2_20240524/%D8%A3%D8%A8%D9%88-%D8%A7%D9%84%D8%B1%D9%8A%D8%AD%D8%A7%D9%86-%D8%A7%D9%84%D8%A8%D9%8A%D8%B1%D9%88%D9%86%D9%8A-1%20%282.jpg","correctanswer": "العراق"},
+             {"quest": "اين ولد","image": "https://ia902905.us.archive.org/20/items/1-2_20240524/%D8%A3%D8%A8%D9%88-%D8%A7%D9%84%D8%B1%D9%8A%D8%AD%D8%A7%D9%86-%D8%A7%D9%84%D8%A8%D9%8A%D8%B1%D9%88%D9%86%D9%8A-1%20%282.jpg","correctanswer": "العراق"}
 
               ]
                  },
@@ -192,9 +192,9 @@
              {"quest": "من هو","image": "https://ia600400.us.archive.org/22/items/1_20240524_20240524_1933/%D8%B5%D9%88%D8%B1-%D8%B9%D8%A7%D8%AF%D9%84-%D8%A7%D9%85%D8%A7%D9%85%20%281%29.jpg","correctanswer": "عادل امام"},
              {"quest": "متى ولد","image": "https://ia600402.us.archive.org/22/items/20240524_20240524_1943/%D8%AB%D8%A7%D8%A8%D8%AA_%D8%A8%D9%86_%D9%82%D8%B1%D8%A9.jpg","correctanswer": "836"},
              {"quest": "فى اى دولة تقع","image": "https://ia600405.us.archive.org/8/items/maxresdefault-6_202405/maxresdefault%20%286%29.jpg","correctanswer": "اسبانيا"},
-             {"quest": "فى اى عام تم بناءه","image": "https://ia904701.us.archive.org/34/items/38862-1/38862_1.jpg","correctanswer": "2020
-             {"quest": "ماهو المثل","image": "https://ia903401.us.archive.org/10/items/maxresdefault-7_202405/maxresdefault%20%287%29.jpg","correctanswer": "اسال مجرب ولا تنسى الطبيب"}
-             {"quest": "اين ولد","image": "https://archive.org/download/9-most-important-scientific-achievements-ibn-al-haytham/9-most-important-scientific-achievements-ibn-al-haytham.jpg","correctanswer": "العراق"},
+             {"quest": "فى اى عام تم بناءه","image": "https://ia904701.us.archive.org/34/items/38862-1/38862_1.jpg","correctanswer": "2020"},
+             {"quest": "ماهو المثل","image": "https://ia903401.us.archive.org/10/items/maxresdefault-7_202405/maxresdefault%20%287%29.jpg","correctanswer": "اسال مجرب ولا تنسى الطبيب"},
+             {"quest": "اين ولد","image": "https://archive.org/download/9-most-important-scientific-achievements-ibn-al-haytham/9-most-important-scientific-achievements-ibn-al-haytham.jpg","correctanswer": "العراق"}
 
               ]
                   }, {
@@ -209,7 +209,7 @@
              {"quest": "فى اى دولة تقع","image": "https://ia904701.us.archive.org/23/items/th-6_20240524/th%20%286%29.jpg","correctanswer": "السعودية"},
              {"quest": "فى اى عام تم بناءه","image": "https://ia600402.us.archive.org/34/items/th-7_20240524/th%20%287%29.jpg","correctanswer": "1956"},
              {"quest": "من هو","image": "https://ia802907.us.archive.org/30/items/th-8_20240524/th%20%288%29.jpg","correctanswer": "مصطفى السيد"},
-             {"quest": "اين ولد","image": "https://ia803409.us.archive.org/28/items/20240524_20240524_2019/%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D9%86%D9%88%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%A7%D8%AA.jpg","correctanswer": "المنوفية"},
+             {"quest": "اين ولد","image": "https://ia803409.us.archive.org/28/items/20240524_20240524_2019/%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D9%86%D9%88%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%A7%D8%AA.jpg","correctanswer": "المنوفية"}
              ]
 
               }
