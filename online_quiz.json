@@ -6,8 +6,8 @@
       "isComplete": "true",
       "question": [
         
-        {"quest": "في اي دولة يقع هذا المَعلم السياحي؟","image": "https://ia600301.us.archive.org/2/items/online2_202405/in_egypt.JPG","chooses":["ق","ص","ر","م","ط"],"correctanswer": "مصر"},
-        {"quest": "يُعرف ببرج بيزاالمائل فاين يوجد؟","image": "https://ia800301.us.archive.org/2/items/online2_202405/in_italy.jpeg","chooses":["ي","ط","ص","ي","ا","ل","ا","ا","م"],"correctanswer": "ايطاليا"}
+        {"quest": "في اي دولة يقع هذا المَعلم السياحي؟","image": "https://ia600301.us.archive.org/2/items/online2_202405/in_egypt.JPG","correctanswer": "مصر"},
+        {"quest": "يُعرف ببرج بيزاالمائل فاين يوجد؟","image": "https://ia800301.us.archive.org/2/items/online2_202405/in_italy.jpeg","correctanswer": "ايطاليا"}
        
       ]
 
@@ -23,7 +23,7 @@
              {"quest": "حل اللغز","image": "https://ia600403.us.archive.org/21/items/nn_20240522/nn.jpg","correctanswer": "السنارة"},
              {"quest": "اين ولد","image": "https://ia904701.us.archive.org/29/items/20240522_20240522_1946/%D8%AC.jpg","correctanswer": "الكوفة"},
              {"quest": "من صاحب هذه الصورة","image": "https://ia902906.us.archive.org/30/items/20240523_20240523_1642/%D8%A7%D9%8A%D9%86%D9%8A%D8%B4%20%D8%AA%D8%A7%D9%8A%D9%86.jpg","correctanswer": "اينشتاين"},
-             {"quest": "لقب بابوالطب","image": "https://ia904701.us.archive.org/23/items/20240523_20240523_1721/%D8%A7%D8%A8%D9%86%20%D8%B3%D9%8A%D8%AA%D8%A7%D8%A1.jpg","correctanswer": "ابن سيناء"},
+             {"quest": "لقب بابو الطب","image": "https://ia904701.us.archive.org/23/items/20240523_20240523_1721/%D8%A7%D8%A8%D9%86%20%D8%B3%D9%8A%D8%AA%D8%A7%D8%A1.jpg","correctanswer": "ابن سيناء"},
              {"quest": "متى تاسس الاتحادالعام للصحفيين العرب","image": "https://ia803402.us.archive.org/2/items/20240524_20240524_1007/%D8%AD%D8%B1%D9%8A%D8%A9.jpg","correctanswer": "1964"}
 
              
@@ -40,7 +40,7 @@
              {"quest": "بحبة البنات ويكرهة الولاد","image": "https://ia600404.us.archive.org/14/items/20240523_20240523_1902/%D8%A7%D9%84%D8%AD%D9%86%D8%A7%D8%A1.jpg","correctanswer": "الحناء"},
              {"quest": "احدث نهضة عالمية فى الاسلام","image": "https://ia903200.us.archive.org/14/items/20240524_20240524_0909/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D8%A8%D8%AF%D9%87.jpg","correctanswer": "محمدعبده"},
              {"quest": "ماهو هذا الشى","image": "https://ia902906.us.archive.org/32/items/20240524_20240524_1045/%D8%AA%D9%84%D8%A8%D8%B3%D8%A9%20%D9%84%D8%A7%20%D8%AA%D8%B1%D8%A7%D8%A9.jpg","correctanswer": "الكفن"},
-             {"quest": "","image": "https://ia903404.us.archive.org/20/items/1-1_20240524/%D8%A3%D9%84%D8%BA%D8%A7%D8%B21-1.jpg","correctanswer": "الام"}
+             {"quest": "خمن","image": "https://ia903404.us.archive.org/20/items/1-1_20240524/%D8%A3%D9%84%D8%BA%D8%A7%D8%B21-1.jpg","correctanswer": "الام"}
 
              ]
               }, {
@@ -54,8 +54,8 @@
              {"quest": "اختبر ذكائك","image": "","correctanswer": ""},
              {"quest": "اين يقع هذاالمعلم ","image": "https://ia903402.us.archive.org/5/items/th_20240524/th.jpg","correctanswer": "لندن"},
              {"quest": "متى بنى هذا المعلم السياحى","image": "https://ia600401.us.archive.org/22/items/th-10_202405/th%20%2810%29.jpg","correctanswer": "2000"},
-             {"quest": "","image": "https://ia600401.us.archive.org/4/items/20240524_20240524_1531/%D8%AA%D9%85%D8%B3%D9%83%D8%A9.jpg","correctanswer": "اعصابك"},
-             {"quest": "","image": "https://ia600401.us.archive.org/29/items/10_20240524_20240524_1536/%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-10.jpg","correctanswer": "الخفافيش"}
+             {"quest": "خمن","image": "https://ia600401.us.archive.org/4/items/20240524_20240524_1531/%D8%AA%D9%85%D8%B3%D9%83%D8%A9.jpg","correctanswer": "اعصابك"},
+             {"quest": "خمن","image": "https://ia600401.us.archive.org/29/items/10_20240524_20240524_1536/%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-10.jpg","correctanswer": "الخفافيش"}
              
            ]
       }, {
@@ -65,7 +65,6 @@
            "question": [
              
              {"quest": "","image": "https://ia600404.us.archive.org/4/items/92-2_20240524/92-2.jpg","correctanswer": "الدخان"},
-             {"quest": "","image": "https://ia903200.us.archive.org/11/items/maxresdefault_20240524/maxresdefault.jpg","correctanswer": "منجم"},
              {"quest": "","image": "https://ia600404.us.archive.org/32/items/th-1_20240524/th%20%281%29.jpg","correctanswer": "الفندق"},
              {"quest": "","image": "https://ia902907.us.archive.org/4/items/maxresdefault-1_20240524/maxresdefault%20%281%29.jpg","correctanswer": "صدى الصوت"},
              {"quest": "","image": "https://ia903403.us.archive.org/35/items/th-2_20240524/th%20%282%29.jpg","correctanswer": "الكوع الايمن"},
@@ -107,12 +106,12 @@
            "isComplete": "true",
            "question": [
              
-             {"quest": "اوجدالاختلاف","image": "https://archive.org/download/2316-1/2316-1.jpg","correctanswer": "الحبنة"},
+             {"quest": "اوجدالاختلاف","image": "https://archive.org/download/2316-1/2316-1.jpg","correctanswer": "الجبنة"},
              {"quest": "من هو","image": "https://ia903404.us.archive.org/25/items/111036919-p-01h-15zf/_111036919_p01h15zf.jpg","correctanswer": "مجدى يعقوب"},
              {"quest": "متى ولد","image": "https://ia600403.us.archive.org/5/items/20240524_20240524_1825/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D9%84%D9%8A-%D8%A8%D8%A7%D8%B4%D8%A7.jpg","correctanswer": "1769"},
              {"quest": "فى اى دولة تقع","image": "https://ia600402.us.archive.org/15/items/th-9_20240524/th%20%289%29.jpg","correctanswer": "مصر"},
              {"quest": "فى اى عام تم بناءه","image": "https://ia904709.us.archive.org/8/items/th-4_20240524/th%20%284%29.jpg","correctanswer": "1897"},
-             {"quest": "ماهو المثل","image": "https://archive.org/download/c5d58f86d98f5ea958773e1084cef476/c5d58f86d98f5ea958773e1084cef476.jpg","correctanswer": "زينة المراة حياؤها"},
+             {"quest": "خمن مثل مناسب","image": "https://archive.org/download/c5d58f86d98f5ea958773e1084cef476/c5d58f86d98f5ea958773e1084cef476.jpg","correctanswer": "زينة المراة حياؤها"},
              {"quest": "اين ولد","image": "https://ia902905.us.archive.org/20/items/1-2_20240524/%D8%A3%D8%A8%D9%88-%D8%A7%D9%84%D8%B1%D9%8A%D8%AD%D8%A7%D9%86-%D8%A7%D9%84%D8%A8%D9%8A%D8%B1%D9%88%D9%86%D9%8A-1%20%282.jpg","correctanswer": "العراق"}
 
               ]
@@ -128,7 +127,6 @@
              {"quest": "متى ولد","image": "https://ia600402.us.archive.org/22/items/20240524_20240524_1943/%D8%AB%D8%A7%D8%A8%D8%AA_%D8%A8%D9%86_%D9%82%D8%B1%D8%A9.jpg","correctanswer": "836"},
              {"quest": "فى اى دولة تقع","image": "https://ia600405.us.archive.org/8/items/maxresdefault-6_202405/maxresdefault%20%286%29.jpg","correctanswer": "اسبانيا"},
              {"quest": "فى اى عام تم بناءه","image": "https://ia904701.us.archive.org/34/items/38862-1/38862_1.jpg","correctanswer": "2020"},
-             {"quest": "ماهو المثل","image": "https://ia903401.us.archive.org/10/items/maxresdefault-7_202405/maxresdefault%20%287%29.jpg","correctanswer": "اسال مجرب ولا تنسى الطبيب"},
              {"quest": "اين ولد","image": "https://archive.org/download/9-most-important-scientific-achievements-ibn-al-haytham/9-most-important-scientific-achievements-ibn-al-haytham.jpg","correctanswer": "العراق"}
 
               ]
@@ -139,7 +137,6 @@
            "question": [
              
              {"quest": "اوجدالاختلاف","image": "https://ia802906.us.archive.org/10/items/th-5_20240524/th%20%285%29.jpg","correctanswer": "الكتاب"},
-             {"quest": "ماهو المثل","image": "https://ia600402.us.archive.org/28/items/800x-364/%D9%85%D8%B9%D9%86%D9%89-%D8%A7%D9%84%D8%B3%D8%B9%D8%A7%D8%AF%D8%A9-%D9%85%D9%82%D8%A7%D9%84-%D8%B9%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D8%A7%D8%AF%D8%A9-800x364.jpg","correctanswer": "تبدء السعادة حين ينتهى الطمع"},
              {"quest": "متى ولد","image": "https://archive.org/download/12201818125619196418636/12201818125619196418636.jpg","correctanswer": "1918"},
              {"quest": "فى اى دولة تقع","image": "https://ia904701.us.archive.org/23/items/th-6_20240524/th%20%286%29.jpg","correctanswer": "السعودية"},
              {"quest": "فى اى عام تم بناءه","image": "https://ia600402.us.archive.org/34/items/th-7_20240524/th%20%287%29.jpg","correctanswer": "1956"},
@@ -153,16 +150,16 @@
             "TypeQuiz": "letter",
             "isComplete": "true",
             "question": [
-              {"quest": "ما اسم الطائر الذي يعرف أنه صديق البحارين؟","chooses":["ر","ة","ن","و","ل","س","ص","ا"],"correctanswer": "النورس"},
-              {"quest": "متى تم الغاء الخلافة الاسلامية؟","chooses":["1","2","3","9","5","6","2","4"],"correctanswer": "1924"},
-              {"quest": "متى اول مرة تم حرق المسجد الاقصى؟","chooses":["1","1","2","4","9","6","6","9"],"correctanswer": "1969"},
-              {"quest": "ما هي أول دولة أستخدمت الطوابع؟","chooses":["ن","ر","م","ج","ت","ل","ا","ص","غ","ب","ن"],"correctanswer": "انجلترا"},
-              {"quest": "كم يزن وزن فرس النهر بالطن؟","chooses":["2","0","1","6","3","8","9"],"correctanswer": "2"},
-              {"quest": "كم يصل أعداد أسنان الجمل؟","chooses":["3","9","8","3","6","4"],"correctanswer": "34"},
-              {"quest": "ماذا كان يعمل الفنان المصري يحيي الفخراني قبل الدخول في التمثيل؟","chooses":["م","ب","ح","ب","ي","ع","ط","ا","م","ي"],"correctanswer": "طبيب"},
-              {"quest": "من شارك في تمثيل فيلم صعيدي في الجامعة الأمريكية؟","chooses":["ي","د","د","ي","م"," ","ج","ح","ه","ن","م"],"correctanswer": "محمد هنيدي"},
-              {"quest": "من هو بطل مسلسل طاش ما طاش؟","chooses":["ب","ر","ي","ص","ص"," ","ا","ا","ل","ق","ن"],"correctanswer": "ناصر القصبي"},
-              {"quest": "ما هي أصغر دولة عربية من حيث المساحة ؟","chooses":["ح","ر","ب","ل","ن","ي","ا","ر","ط","ق"],"correctanswer": "البحرين"}
+              {"quest": "ما اسم الطائر الذي يعرف أنه صديق البحارين؟","correctanswer": "النورس"},
+              {"quest": "متى تم الغاء الخلافة الاسلامية؟","correctanswer": "1924"},
+              {"quest": "متى اول مرة تم حرق المسجد الاقصى؟","correctanswer": "1969"},
+              {"quest": "ما هي أول دولة أستخدمت الطوابع؟","correctanswer": "انجلترا"},
+              {"quest": "كم يزن وزن فرس النهر بالطن؟","correctanswer": "2"},
+              {"quest": "كم يصل أعداد أسنان الجمل؟","correctanswer": "34"},
+              {"quest": "ماذا كان يعمل الفنان المصري يحيي الفخراني قبل الدخول في التمثيل؟","correctanswer": "طبيب"},
+              {"quest": "من شارك في تمثيل فيلم صعيدي في الجامعة الأمريكية؟","correctanswer": "محمد هنيدي"},
+              {"quest": "من هو بطل مسلسل طاش ما طاش؟","correctanswer": "ناصر القصبي"},
+              {"quest": "ما هي أصغر دولة عربية من حيث المساحة ؟","correctanswer": "البحرين"}
             ]
       
           },
@@ -171,15 +168,15 @@
             "TypeQuiz": "letterSquare",
             "isComplete": "true",
             "question": [
-              {"quest": "ما هي أسرع سمكة بحرية؟","chooses":["و","ت","ج","م","ب","ر","د","ش","أ","ن","ث","ا"],"correctanswer":"أبومنشار"},
-              {"quest": "ماذا يطلق على ابن الذئب؟","chooses":["ل","غ","ن","ل","خ","و","ة","ا"],"correctanswer":"الغلو"},
-              {"quest": "من هو الحيوان الذي يضرب به المثل في الوفاء؟","chooses":["ل","ع","ث","ل","ك","ب","ي","ا"],"correctanswer":"الكلب"},
-              {"quest": "ماذا يطلق على صوت النسر؟","chooses":["ي","ض","ف","ر","ت","ص","ث","و"],"correctanswer":"صفير"},
-              {"quest": "في أي مكان يوجد وادي الموت ؟","chooses":["ف","ي","ن","ل","ر","و","ا","ش","ي","ا","ظ","ك"],"correctanswer":"كاليفورنيا"},
-              {"quest": "متى تم استخدام الهَلْال الأحمر بدلاً من الصليب الأحمر في البلدان الإسلامية ؟","chooses":["٦","٧","٩","٢","٨","٣","١"],"correctanswer":"١٨٧٦"},
-              {"quest": "في أي عام بدأ الإرسال في إذاعة القاهرة ؟","chooses":["١","٦","٦","٩","٠","٤","٣","٤"],"correctanswer":"١٩٣٤"},
-              {"quest": "أين يقع المسجد الأزرق؟","chooses":["ب","ط","ن","و","س","ل","ا","خ"],"correctanswer":"اسطنبول"},
-              {"quest": "ما هي البلد التي حدث بها أكبر مجاعة في العالم؟","chooses":["ص","ض","ر","ل","ي","ج","ا","ن"],"correctanswer":"الصين"}
+              {"quest": "ما هي أسرع سمكة بحرية؟","correctanswer":"أبومنشار"},
+              {"quest": "ماذا يطلق على ابن الذئب؟","correctanswer":"الغلو"},
+              {"quest": "من هو الحيوان الذي يضرب به المثل في الوفاء؟","correctanswer":"الكلب"},
+              {"quest": "ماذا يطلق على صوت النسر؟","correctanswer":"صفير"},
+              {"quest": "في أي مكان يوجد وادي الموت ؟","correctanswer":"كاليفورنيا"},
+              {"quest": "متى تم استخدام الهَلْال الأحمر بدلاً من الصليب الأحمر في البلدان الإسلامية ؟","correctanswer":"1876"},
+              {"quest": "في أي عام بدأ الإرسال في إذاعة القاهرة ؟","correctanswer":"١٩٣٤"},
+              {"quest": "أين يقع المسجد الأزرق؟","correctanswer":"اسطنبول"},
+              {"quest": "ما هي البلد التي حدث بها أكبر مجاعة في العالم؟","correctanswer":"الصين"}
             ]
       
           },
