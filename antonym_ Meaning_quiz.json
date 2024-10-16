@@ -1,0 +1,69 @@
+{
+  "levelquest": [
+  
+   
+             {
+              "levelname": "المستوي الأول",
+              "TypeQuiz": "letter",
+              "isComplete": "false",
+              "question": [
+                {"quest": "مرادف اتقوا","correctanswer": "ابتعدوا"},
+                {"quest": "مضاد اتقوا","correctanswer": "اقتربوا"},
+                {"quest": "مضاد طيبة","correctanswer": "خبيثة"},
+                {"quest": "مضاد يرضى عنه","correctanswer": "يسخط"},
+                {"quest": "مرادف يحمده","correctanswer": "يشكره"},
+                {"quest": "مرادف يستطيع","correctanswer": "يقدر"},
+                {"quest": "مرادف يعين","correctanswer": "يساعد"},
+                {"quest": "مرادف الملهوف","correctanswer": "المستغيث"},
+                {"quest": "مرادف ينفع","correctanswer":"يفيد"},
+                {"quest": "مرادف يمسك","correctanswer":"يبتعد"}
+
+               
+              ]
+        
+            },
+            {
+             "levelname": "المستوي الثاني",
+             "TypeQuiz": "letterSquare",
+             "isComplete": "false",
+             "question": [
+               {"quest": "مرادف انخفضت","correctanswer":"نزلت"},
+               {"quest": "مرادف دون","correctanswer":"تحت"},
+               {"quest": "مرادف توقع","correctanswer":"تنبأ"},
+               {"quest": "مرادف خلابا","correctanswer":"جميلا"},
+               {"quest": "مرادف تمسك","correctanswer":"تعلق"},
+               {"quest": "مرادف بزغت","correctanswer":"ظهرت"},
+               {"quest": "مرادف حيطة","correctanswer":"حذر"},
+               {"quest": "مرادف تأهبوا","correctanswer":"استعدوا"},
+               {"quest": "مرادف تجوب","correctanswer":"تدور"},
+               {"quest": "مرادف العون","correctanswer":"المساعده"}
+
+                          
+            ]
+                   
+            },
+            {
+            "levelname": "المستوي الثالث",
+            "TypeQuiz": "words",
+            "isComplete": "false",
+            "question": [
+              {"quest": "مرادف أخذت","chooses":["انتهت","عملت","مسكت","بدأت"],"correctanswer": "بدأت"},
+              {"quest": "مرادف يشكلون","chooses":["يصنعون","يعملون","يمشون","يقولون"],"correctanswer": "يصنعون"},
+              {"quest": "مرادف يهز","chooses":["يأخذ","يحرك","يرفع","يدفع"],"correctanswer": "يحرك"},
+              {"quest": "مضاد ترضى","chooses":["توافق","تؤجل","تقبل","ترفض"],"correctanswer": "ترفض"},
+              {"quest": "مرادف ارتدت","chooses":["مشيت","قلعت","لبست","خلعت"],"correctanswer": "لبست"},
+              {"quest": "جمع عذاب","chooses":["أعذبة","عذوب","عذب","عذابان"],"correctanswer": "أعذبة"},
+              {"quest": "مضاد يملون","chooses":["يتشاورون","يلعبون","يستمتعون","يهرجون"],"correctanswer": "يستمتعون"},
+              {"quest": "مضاد صمدت","chooses":["صعدت","ضعفت","تحملت","قويت"],"correctanswer": "ضعفت"},
+              {"quest": "مرادف تمدها","chooses":["تضعفها","تأخذها","تزودها","تقلل منها"],"correctanswer": "تزودها"},
+              {"quest": "مرادف يفطن","chooses":["ينتبه","يستيقظ","يعمل","يتحرك"],"correctanswer": "ينتبه"}
+
+            ]
+           }
+   
+
+ 
+  ]
+
+
+}
