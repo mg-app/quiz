@@ -5,7 +5,7 @@
              {
               "levelname": "المستوي الأول",
               "TypeQuiz": "letter",
-              "isComplete": "false",
+              "isComplete": "true",
               "question": [
                 {"quest": "مرادف اتقوا","correctanswer": "ابتعدوا"},
                 {"quest": "مضاد اتقوا","correctanswer": "اقتربوا"},
