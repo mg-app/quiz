@@ -3,7 +3,7 @@
     {
     "levelname": "المستوى الأول",
     "TypeQuiz": "words",
-    "isComplete": "false",
+    "isComplete": "true",
     "question": [
       {"quest": "ما هي عاصمة جمهورية مصر العربية؟","chooses":["الإسكندرية","الجيزة","القاهرة","الأقصر"],"correctanswer": "القاهرة"},
       {"quest": "ما هو النهر الرئيسي الذي يمر عبر مصر؟","chooses":["الفرات","دجلة","النيل","الأردن"],"correctanswer": "النيل"},
