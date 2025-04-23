@@ -7,7 +7,9 @@
           {"category": "أسئلة طبية","jsonName": "https://mg-app.github.io/quiz/medical_quiz.json","image": "https://ia800501.us.archive.org/14/items/medical_quiz/medical_quiz.jpeg"},
           {"category": "أسئلة عن مصر","jsonName": "https://mg-app.github.io/quiz/watany_egypt.json","image": "https://ia601402.us.archive.org/9/items/egy_watany/egy_watany.jpeg"},
           {"category": "أسئلة عن البحرين","jsonName": "https://mg-app.github.io/quiz/watany_bahrain.json","image": "https://ia801708.us.archive.org/13/items/watany_iraq_202504/watany_bahrain.jpeg"},
-          {"category": "أسئلة عن العراق","jsonName": "https://mg-app.github.io/quiz/watany_iraq.json","image": "https://ia601708.us.archive.org/13/items/watany_iraq_202504/watany_iraq.jpeg"}
+          {"category": "أسئلة عن العراق","jsonName": "https://mg-app.github.io/quiz/watany_iraq.json","image": "https://ia601708.us.archive.org/13/items/watany_iraq_202504/watany_iraq.jpeg"},
+          {"category": "أسئلة عن الأردن","jsonName": "https://mg-app.github.io/quiz/watany_jordan.json","image": "https://ia601508.us.archive.org/8/items/watany_jordan/watany_jordan.jpeg"}
+
 
 
 
