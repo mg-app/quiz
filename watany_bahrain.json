@@ -2,7 +2,7 @@
   {
     "levelname": "المستوى الأول",
     "TypeQuiz": "words",
-    "isComplete": "false",
+    "isComplete": "true",
     "question": [
       {"quest": "ما هي عاصمة مملكة البحرين؟","chooses":["المحرق","الرفاع","عيسى","المنامة"],"correctanswer": "المنامة"},
       {"quest": "ما هي العملة الرسمية للبحرين؟","chooses":["الريال","الليرة","الدرهم","الدينار"],"correctanswer": "الدينار"},
