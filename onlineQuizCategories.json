@@ -10,7 +10,9 @@
           {"category": "أسئلة عن العراق","jsonName": "https://mg-app.github.io/quiz/watany_iraq.json","image": "https://ia601708.us.archive.org/13/items/watany_iraq_202504/watany_iraq.jpeg"},
           {"category": "أسئلة عن الأردن","jsonName": "https://mg-app.github.io/quiz/watany_jordan.json","image": "https://ia601508.us.archive.org/8/items/watany_jordan/watany_jordan.jpeg"},
           {"category": "أسئلة عن الكويت","jsonName": "https://mg-app.github.io/quiz/watany_kuwait.json","image": "https://ia801800.us.archive.org/30/items/watan_lebnan/watan_kuwait.jpeg"},
-          {"category": "أسئلة عن لبنان","jsonName": "https://mg-app.github.io/quiz/watany_Lebanon.json","image": "https://ia601800.us.archive.org/30/items/watan_lebnan/watan_lebnan.jpeg"}
+          {"category": "أسئلة عن لبنان","jsonName": "https://mg-app.github.io/quiz/watany_Lebanon.json","image": "https://ia601800.us.archive.org/30/items/watan_lebnan/watan_lebnan.jpeg"},
+          {"category": "أسئلة عن ليبيا","jsonName": "https://mg-app.github.io/quiz/watany_libya.json","image": "https://ia601507.us.archive.org/12/items/watan_lib/watan_lib.jpeg"},
+          {"category": "أسئلة عن المغرب","jsonName": "https://mg-app.github.io/quiz/watany_morocco.json","image": "https://ia801507.us.archive.org/12/items/watan_lib/watan_morocco.jpeg"}
 
 
 
