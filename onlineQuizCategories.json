@@ -14,7 +14,9 @@
           {"category": "أسئلة عن ليبيا","jsonName": "https://mg-app.github.io/quiz/watany_libya.json","image": "https://ia601507.us.archive.org/12/items/watan_lib/watan_lib.jpeg"},
           {"category": "أسئلة عن المغرب","jsonName": "https://mg-app.github.io/quiz/watany_morocco.json","image": "https://ia801507.us.archive.org/12/items/watan_lib/watan_morocco.jpeg"},
           {"category": "❤️أسئلة عن فلسطين","jsonName": "https://mg-app.github.io/quiz/watany_palestine.json","image": "https://ia601702.us.archive.org/4/items/watan_palestine/watan_palestine.jpeg"},
-          {"category": "أسئلة عن قطر","jsonName": "https://mg-app.github.io/quiz/watany_qatar.json","image": "https://ia601702.us.archive.org/4/items/watan_palestine/watan_qatar.jpeg"}
+          {"category": "أسئلة عن قطر","jsonName": "https://mg-app.github.io/quiz/watany_qatar.json","image": "https://ia601702.us.archive.org/4/items/watan_palestine/watan_qatar.jpeg"},
+          {"category": "أسئلة عن السعودية","jsonName": "https://mg-app.github.io/quiz/watany_saudi_arabia.json","image": "https://ia600705.us.archive.org/25/items/watan_syria/watan_saudi.jpeg"},
+          {"category": "أسئلة عن سوريا","jsonName": "https://mg-app.github.io/quiz/watany_syria.json","image": "https://ia800705.us.archive.org/25/items/watan_syria/watan_syria.jpeg"}
 
 
 
