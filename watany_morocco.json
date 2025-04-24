@@ -3,7 +3,7 @@
         {
             "levelname": "   المستوى الأول",
             "TypeQuiz": "words",
-            "isComplete": "false",
+            "isComplete": "true",
             "question": [
                 {"quest": "ما هي عاصمة المملكة المغربية؟","chooses":["الدار البيضاء","مراكش","فاس","الرباط"],"correctanswer": "الرباط"},
                 {"quest": "ما هي العملة الرسمية للمغرب؟","chooses":["الدينار","اليورو","الفرنك","الدرهم"],"correctanswer": "الدرهم"},
