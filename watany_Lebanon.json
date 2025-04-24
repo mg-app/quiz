@@ -3,7 +3,7 @@
         {
             "levelname": "المستوى الأول",
                 "TypeQuiz": "words",
-            "isComplete": "false",
+            "isComplete": "true",
             "question": [
                 {"quest": "ما هي عاصمة الجمهورية اللبنانية؟","chooses":["صيدا","طرابلس","بيروت","صور"],"correctanswer": "بيروت"},
                 {"quest": "ما هي العملة الرسمية للبنان؟","chooses":["الدينار","الليرة","الدرهم","الجنيه"],"correctanswer": "الليرة"},
